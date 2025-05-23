@@ -18,7 +18,7 @@ can be used to follow the analysis scripts, as data are simulated they should *n
 only the actual, observed, ALSPAC data should be used for formal research and analyses reported in published work.
 
 These synthetic datasets have the file name 'syntheticData_climateConcern_B4572' and are available in R ('.RData'),
-Data ('.dta') and CSV ('.csv') formats.
+Data ('.dta') and CSV ('.csv') formats. A codebook describing the data file is also in this folder ('climateConcern_codebook.xlsx')
 
 
 The 'forPrereg' folder contains scripts created as part of the Stage I Registered Report, demonstrating the proposed 
